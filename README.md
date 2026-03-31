@@ -24,7 +24,7 @@
 
 ## 📋 Sobre este Repositório
 
-Este repositório reúne todos os arquivos necessários para a realização da **Atividade Prática (AV1)** da disciplina de **Desenho Universal**, do curso de **Arquitetura e Urbanismo** do Grupo SER Educacional.
+Este repositório reúne todos os arquivos necessários para a realização da **Atividade Prática (AV1)** da disciplina de **Desenho Universal**, do curso de **Arquitetura e Urbanismo e Engenharias** do Grupo SER Educacional.
 
 Aqui você encontrará os desenhos técnicos do projeto de referência utilizados na atividade, além do guia passo a passo com as instruções completas.
 
